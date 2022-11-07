@@ -7,7 +7,7 @@
 (:star2: denotes equal contribution)
 
 ## Human Annotation of Model-Generated Summaries
-For now, we release the human annotation dataset robust_long_abstractive_human_annotation_dataset.jsonl (or .csv). We use this dataset for the metric comparison in section 5 of our work. 
+For now, we release the human annotation dataset **robust_long_abstractive_human_annotation_dataset.jsonl** (or **.csv**). We use this dataset for the metric comparison in section 5 of our work. 
 
 
 |  **Data Field**  | **Definition** | 

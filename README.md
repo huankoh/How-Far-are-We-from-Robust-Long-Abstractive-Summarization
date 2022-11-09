@@ -13,7 +13,7 @@ For now, we release the human annotation dataset **robust_long_abstractive_human
 |  **Data Field**  | **Definition** | 
 | :--------: |:---- | 
 |  **dataset**  | Whether the model-generated summary is from arXiv or GovReport dataset. | 
-| **dataset_id** | The document ID of the dataset (IDs are from the original dataset of [arXiv](https://github.com/armancohan/long-summarization) and [GovReport](https://gov-report-data.github.io/)). | 
+| **dataset_id** | ID_ + document ID of the dataset. To match the IDs with original dataset, please remove the "ID_" string. The IDs are from the original dataset of [arXiv](https://github.com/armancohan/long-summarization) and [GovReport](https://gov-report-data.github.io/). | 
 |  **model_type**  | Model variant which generates the summary. 1K, 4K and 8K represents 1,024, 4096 and 8192 input token limit of the model. For more information, please refer to the original paper. | 
 | **model_summary** | Model-generated summary | 
 | **relevance** | Percentage of the reference summary’s main ideas contained in the generated summary. Higher = Better.| 

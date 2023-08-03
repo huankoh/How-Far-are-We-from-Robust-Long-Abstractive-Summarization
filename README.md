@@ -30,10 +30,19 @@ We are standardizing the data for detailed factual error types. Stay tuned!
 For more information, please refer to our work: [<i>How Far are We from Robust Long Abstractive Summarization?</i>](https://arxiv.org/abs/2210.16732)
 
 ```
-@article{koh2022far,
-  title={How Far are We from Robust Long Abstractive Summarization?},
-  author={Koh, Huan Yee and Ju, Jiaxin and Zhang, He and Liu, Ming and Pan, Shirui},
-  journal={arXiv preprint arXiv:2210.16732},
-  year={2022}
-}
+@inproceedings{koh-etal-2022-far,
+    title = "How Far are We from Robust Long Abstractive Summarization?",
+    author = "Koh, Huan Yee  and
+      Ju, Jiaxin  and
+      Zhang, He  and
+      Liu, Ming  and
+      Pan, Shirui",
+    booktitle = "Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing",
+    month = dec,
+    year = "2022",
+    address = "Abu Dhabi, United Arab Emirates",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2022.emnlp-main.172",
+    pages = "2682--2698"
+ }
 ```

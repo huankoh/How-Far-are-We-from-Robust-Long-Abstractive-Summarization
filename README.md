@@ -32,11 +32,7 @@ For more information, please refer to our work: [<i>How Far are We from Robust L
 ```
 @inproceedings{koh-etal-2022-far,
     title = "How Far are We from Robust Long Abstractive Summarization?",
-    author = "Koh, Huan Yee  and
-      Ju, Jiaxin  and
-      Zhang, He  and
-      Liu, Ming  and
-      Pan, Shirui",
+    author = "Koh, Huan Yee  and Ju, Jiaxin  and Zhang, He  and Liu, Ming  and Pan, Shirui",
     booktitle = "Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing",
     month = dec,
     year = "2022",
